@@ -13,6 +13,4 @@ Counter, IncrementButton, DecrementButton
 
 #5 
 in main.js
-<Provider store={store}>
-      <App />
-    </Provider>
+provided the store
